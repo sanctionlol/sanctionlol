@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=waddlledev.waddlledev&left_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanctionlol.sanctionlol&left_color=black"  />
 </div>
 
 ###
 
-<p align="center">Hi 👋, I'm Waddle<br><br>A passionate developer from United States<br><br>I am working on Nothing </p>
+<p align="center">Hi 👋, I'm sanction<br><br>A passionate developer from United States<br><br>I am working on Nothing </p>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/z2zJvgWgeG" target="_blank">
+  <a href="none" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://signal.me/#eu/p00SexJrpvxPWLC5KS5SFvAO_8qn3w3whC759sM6g-xA7BsSwBhEXritT6VRmuXj" target="_blank">
@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/waddlledev/waddlledev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanctionlol/sanctionlol/output/snake.svg" alt="Snake animation" />
 
 ###
