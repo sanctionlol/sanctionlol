@@ -8,7 +8,7 @@
 
 ```javascript
 const about = {
-  code: ["PHP", "HTML5", "CSS3", "JavaScript", "Python", "C", "C#", "Lua", "Bash"],
+  code: ["PHP", "HTML5", "CSS3", "JavaScript", "Python","C#"],
   frameworks: ["React", "Node.js"],
   infrastructure: ["Docker", "Nginx", "npm"],
   tools: ["Git"],
